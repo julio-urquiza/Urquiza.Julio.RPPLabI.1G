@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1627607059 source:c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+
+1627604329 c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\alquiler.h
+	"cliente.h"
+
+1627597685 source:c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1627597632 c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\cliente.h
+
+1627595313 source:c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\informes.c
+	"informes.h"
+
+1627595313 c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\informes.h
+
+1627334697 source:c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\validaciòn.c
+	"Validaciòn.h"
+
+1627329875 c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\validaciòn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1627607144 source:c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"Validaciòn.h"
+
+1627606245 source:c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciòn.h"
+	"lib.h"
+
+1627606126 c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\lib.h
+	"alquiler.h"
+
+1627602309 source:c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\equipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipo.h"
+
+1627602296 c:\users\julio cesar urquiza\desktop\parcial\urquiza.rpplabi.1g\urquiza.rpplabi.1g\equipo.h
+
